@@ -1,0 +1,4 @@
+
+
+class NDimensions(object):
+    pass

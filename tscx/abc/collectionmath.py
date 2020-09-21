@@ -1,0 +1,6 @@
+
+
+class MathSequence(object):
+    pass
+
+
